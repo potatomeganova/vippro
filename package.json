@@ -1,0 +1,9 @@
+{
+  "name": "stickman-infinity-war-server",
+  "version": "1.0.0",
+  "description": "Máy chủ online cho Stick Man Infinity War (không cần đăng nhập claude.ai)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.18.0" }
+}
